@@ -8,9 +8,13 @@ The Lending Club is a peer-to-peer lending site where members make loans to each
 
 **Business Problem:**
 Using lending club loans data, the team would like to test below hypothesis on how different factors affecting each other (Hint: You may leverage hypothesis testing using statistical tests)
+
 a. Interest rate varies for different loan amounts (Less interest charged for high loan amounts)
+
 b. Loan length directly affects interest rate.
+
 c. Interest rate varies for different purposes of loans
+
 d. There is a relationship between FICO scores and Home Ownership. It means that People with owning homes will have high FICO scores.
 
 **Data Available:**
