@@ -1,7 +1,5 @@
 # Hypothesis_Testing_case_study
 
-# Business Problems and Data Analysis
-
 ## BUSINESS PROBLEM-1
 **Background:** 
 The Lending Club is a peer-to-peer lending site where members make loans to each other. The site makes anonymized data on loans and borrowers publicly available.
